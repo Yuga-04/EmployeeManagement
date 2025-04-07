@@ -4,7 +4,7 @@ The **Employee Management System** is a web-based application designed to simpli
 
 ## 🌐 Live Demo
 
-Check out the live project here: [EmployeeManagement Website](https://https://managerworkwise.netlify.app/)
+Check out the live project here: [EmployeeManagement Website](https://managerworkwise.netlify.app/)
 
 ## 🖼️ Main Portal
 
@@ -113,7 +113,7 @@ Managers can assign tasks to employees through this section by specifying task d
 
 ## 🌐 Live Demo
 
-Check out the live project here: [EmployeeManagement Website](https://https://managerworkwise.netlify.app/)
+Check out the live project here: [EmployeeManagement Website](https://managerworkwise.netlify.app/)
 
 
 
