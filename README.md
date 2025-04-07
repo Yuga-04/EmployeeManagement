@@ -2,6 +2,10 @@
 
 The **Employee Management System** is a web-based application designed to simplify and streamline HR operations by providing a centralized platform to manage employee records, roles, and departments efficiently.
 
+## 🌐 Live Demo
+
+Check out the live project here: [EmployeeManagement Website](https://https://managerworkwise.netlify.app/)
+
 ## 🖼️ Main Portal
 
 Below is the main portal of the system, where users can log in as an **Employee**, **Manager**, or register a new account:
@@ -17,6 +21,7 @@ This is the registration form where new users can create an account by providing
 ## 🔐 Employee Login
 
 This is the login screen for employees. Users can enter their credentials to securely access their dashboard and manage their profile and tasks.
+- Employee can login using their employee id and password.
 
 ![Employee Login](./Images/emplogin.jpg)
 
@@ -48,6 +53,9 @@ This section displays the list of pending tasks assigned to the employee, includ
 ## 🧑‍💼 Manager Login
 
 Managers can log in through a dedicated portal to access features like reviewing leave requests, assigning tasks, and monitoring employee activities.
+- Manager have static credentials: 
+    - Manager ID : Manager2025
+    - Password : mana@2025
 
 ![Manager Login](./Images/manalogin.jpg)
 
@@ -62,6 +70,9 @@ After logging in, managers are directed to their dashboard where they can view e
 ## 📋 Registered Employees
 
 This section provides managers with a comprehensive list of all registered employees, including details like employee ID, name, department, role, and contact information. It helps in efficient employee tracking and management.
+- Manager can able to see the registered employees.
+- Manager can also able to delete the registered employee.
+- Once the manager is deleted the employee the complete details of that employee will be removed and the employee was unable to login.
 
 ![Registered Employees](./Images/regel.jpg)
 
@@ -85,6 +96,25 @@ This tab allows managers to view the history of all processed leave requests, in
 Managers can assign tasks to employees through this section by specifying task details like title, description, deadline, and priority. Assigned tasks are tracked and reflected on the employee’s dashboard under pending works.
 
 ![Work Assignment](./Images/manaemppending.jpg)
+
+
+## ✨ Features
+
+- 🔐 **Role-Based Authentication** – Separate access for Employees and Managers with secure login.
+- 🧾 **Detailed Employee Profiles** – Each employee has a complete profile with personal and professional info.
+- 🗃️ **Task Tracking** – View and update the status of assigned tasks in real-time.
+- 📈 **Dashboard Insights** – Clean and informative dashboards for both employees and managers.
+- 📬 **Leave Management Workflow** – Submit, review, approve/reject leave requests with full history.
+- 🧭 **Navigation Panel** – Easy-to-use sidebar or navbar for switching between sections.
+- 📱 **Responsive Design** – Fully functional UI across desktops, tablets, and mobile devices.
+- 📂 **Organized Codebase** – Clear separation of frontend, backend, and assets for easy maintainability.
+- 🔄 **Real-Time Updates** – Auto-refresh for tasks or leave statuses.
+- 💬 **Notifications/Alerts** – Visual feedback for actions like task assignment or leave status changes.
+
+## 🌐 Live Demo
+
+Check out the live project here: [EmployeeManagement Website](https://https://managerworkwise.netlify.app/)
+
 
 
 
