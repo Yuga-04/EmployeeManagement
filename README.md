@@ -106,10 +106,7 @@ Managers can assign tasks to employees through this section by specifying task d
 - 📈 **Dashboard Insights** – Clean and informative dashboards for both employees and managers.
 - 📬 **Leave Management Workflow** – Submit, review, approve/reject leave requests with full history.
 - 🧭 **Navigation Panel** – Easy-to-use sidebar or navbar for switching between sections.
-- 📱 **Responsive Design** – Fully functional UI across desktops, tablets, and mobile devices.
-- 📂 **Organized Codebase** – Clear separation of frontend, backend, and assets for easy maintainability.
-- 🔄 **Real-Time Updates** – Auto-refresh for tasks or leave statuses.
-- 💬 **Notifications/Alerts** – Visual feedback for actions like task assignment or leave status changes.
+- 📂 **Organized Codebase** – Clear separation of frontend, backend(localstorage), and assets for easy maintainability.
 
 ## 🌐 Live Demo
 
