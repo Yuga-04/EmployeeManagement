@@ -66,6 +66,27 @@ This section provides managers with a comprehensive list of all registered emplo
 ![Registered Employees](./Images/regel.jpg)
 
 
+## ✅ Leave Request Tab
+
+In this section, managers can view all pending leave requests submitted by employees. Each request includes details like leave type, date range, reason, and current status. Managers can approve or reject requests directly from this interface.
+
+![Leave Request Tab](./Images/manaleavereq.jpg)
+
+
+## 📑 Leave Request History (Manager)
+
+This tab allows managers to view the history of all processed leave requests, including approved, rejected, and pending applications. It provides clear visibility into past actions and helps with decision-making and record-keeping.
+
+![Leave Request History](./Images/manaempleavehis.jpg)
+
+
+## 📝 Work Assignment
+
+Managers can assign tasks to employees through this section by specifying task details like title, description, deadline, and priority. Assigned tasks are tracked and reflected on the employee’s dashboard under pending works.
+
+![Work Assignment](./Images/manaemppending.jpg)
+
+
 
 
 
